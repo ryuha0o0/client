@@ -2,11 +2,13 @@
 =======
 ### React + Vite 활용,
 ### how to run?
+```
 npm install
 npm run build
 npm install chart.js
 npm run dev
 http://localhost:5173/
+```
 
 ### 실시간 센서 정보 그래프
 ![스마트팜실시간그래프 동영상](https://github.com/user-attachments/assets/084ebe36-7002-4e80-8a4b-d64122c74581)
