@@ -1,17 +1,14 @@
-<<<<<<< HEAD
-# client
 리액트 뷰 페이지
 =======
-# React + Vite
+### React + Vite 활용,
+### how to run?
+npm install
+npm run build
+npm install chart.js
+npm run dev
+http://localhost:5173/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 80cdeea (feat: 센서 데이터 실시간 조회 기능,과거 데이터 조회 기능 구현)
+### 실시간 센서 정보 그래프
+![스마트팜실시간그래프 동영상](https://github.com/user-attachments/assets/084ebe36-7002-4e80-8a4b-d64122c74581)
+### 센서 별 과거 데이터 조회
+![과거 데이터 센서 조회](https://github.com/user-attachments/assets/f7090caa-86e6-417e-b4dc-ace14601643f)
