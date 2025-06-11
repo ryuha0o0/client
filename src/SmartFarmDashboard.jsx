@@ -68,7 +68,7 @@ const SmartFarmDashboard = () => {
       }
     });
 
-    eventSource.addEventListener('connect', e => {
+    eventSource.addEventListener('connect', () => {
       console.log(`[✅ ${id}] SSE 연결 성공`);
     });
 
